@@ -1,0 +1,14 @@
+- Power BI cache files
+  *.tmp
+
+- VS Code settings
+  .vscode/
+
+- System files
+  .DS_Store Thumbs.db
+
+- Python cache
+  pycache/
+
+- Log files
+  *.log
